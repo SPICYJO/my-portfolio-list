@@ -12,5 +12,6 @@ Portfolio List
 - 7-Segment implemented in Minecraft [[Video]](https://www.youtube.com/watch?v=Lc_JC8Pt12k&t=135s)
   - 집에서 마인크래프트를 하다가 만들 수 있겠다 싶어서 만든 7-segment
   - 레드스톤을 이용하여 AND, OR, NOT 게이트를 만들고 게이트를 사용하여 만들어봄
-  
-  감사합니다.
+
+
+감사합니다.
