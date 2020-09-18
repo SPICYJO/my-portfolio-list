@@ -5,7 +5,7 @@ Portfolio List
 - Heat transfer simulator [[Source]](https://github.com/SPICYJO/thermal-fin-simulator/tree/mechlab2)
   - 열전달을 시뮬레이션해주는 파이썬 프로그램
 - SPICY WEB Playground [[Link]](http://spicyweb.pythonanywhere.com/)
-  - Web 공부를 하기 위해 이것저것 만들어서 올려본 사이트
+  - Web 공부를 하기 위해 이것저것 만들어서 올려봄
 - Samsung-Careers-Subjects-Easy-Fill-in [[Source]](https://github.com/SPICYJO/samsung-careers-subjects-easy-fillin)
   - 삼성채용 사이트에서 수강교과목 입력을 자동으로 해주기 위한 도구
   - csv 파일로 수강교과목을 정리해두면 프로그램이 자동으로 사이트에 입력해줌
